@@ -11,6 +11,7 @@ function scuberGreetingForFeet(distance){
       response = 'No can do.'
       break;
   }
+  return response
 }
 
 function ternaryCheckCity(){
