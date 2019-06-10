@@ -1,6 +1,6 @@
 function scuberGreetingForFeet(distance){
   let response
-  switch(distance){
+  switch(true){
     case distance <= 400:
       response = 'This one is on me!';
       break;
