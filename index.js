@@ -5,7 +5,7 @@ function scuberGreetingForFeet(distance){
       response = 'This one is on me!';
       break;
     case distance >= 2000:
-      
+
       break;
   }
 }
